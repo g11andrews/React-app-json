@@ -5,9 +5,84 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+    background-color: aliceblue;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+h6 {
+    text-align: center;
+}
+#todo {
+    text-align: center;
+}
+#todoTitle {
+    color: goldenrod;
+    text-align: center
+}
+#userTitle {
+    color: green;
+    text-align: center
+}
+#name {
+    background-color: antiquewhite;
+}
+#username {
+    background-color: aquamarine;
+}
+#email {
+    background-color: palevioletred;
+}
+#address {
+    background-color: lightcoral;
+}
+#street {
+    background-color: lightblue;
+}
+#suite {
+    background-color: lightgoldenrodyellow;
+}
+#city {
+    background-color: lightcyan;
+}
+#zip {
+    background-color: lightgray;
+}
+#geo {
+    background-color: lightgreen;
+}
+#lat {
+    background-color: lightsalmon;
+}
+#lon {
+    background-color: lightyellow;
+}
+#phone {
+    background-color: lightsteelblue;
+}
+#website {
+    background-color: lightseagreen;
+}
+#company {
+    background-color: lightpink;
+}
+#companyname {
+    background-color: lightslategrey;
+}
+#catch {
+    background-color: lavenderblush;
+}
+#bs {
+    background-color: oldlace;
+}
+#userUser {
+    border-left-style: groove;
+}
+#userContainer {
+    border-bottom-style: groove;
+    
+    border-top-style: groove;
+    border-right-style: groove;
 }
